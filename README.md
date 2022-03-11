@@ -1,2 +1,14 @@
 # Gutofy
-Atividade 4 (O que você ouve, na verdade, é que o você é) proposta pelo professor Gabriel, onde criamos uma playlist com músicas que gostamos e que represente algum aspecto de nossas vidas. (nem toda música representa algo em minha vida, são apenas músicas que gosto e que mais escuto ultimamente).
+É projeto solicitado pelo professor Gabriel, onde foi desenvolvido uma playlist do meu gosto músical ou 
+que representam algum aspecto da minha vida.
+
+Nem todas as músicas representam algum aspecto da minha vida, a grande maioria são apenas músicas que gosto e escuto no dia-a-dia.
+
+##  Tecnologias Utilizadas
+Para o desenvolvimento desse simples projeto foram utilizadas as seguintes tecnologias:
+
+-[] HTML5;
+-[] CSS3;
+-[] Figma.
+
+##Demonstração do Projeto
